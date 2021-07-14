@@ -1,0 +1,29 @@
+Intial Thing You Should Follow After Installing GIT in Your Machine 
+
+    git config --global user.name   "ourname"
+    git config --global user.email  "ourmail"
+
+
+
+Bonus Command
+
+We can Create Custom GIT Commands Using GIT Config 
+
+Example
+
+git log --oneword --graph --decoration --all 
+
+Displays Different Commits in Diagramatical Way, But Command is BIT Larger so for this we can write custom Command
+
+git config --global alias.biglog  "log --oneword --graph --decoration --all"
+
+now i can use 
+
+git biglog 
+
+
+To view all custom created Command 
+
+git config --global --list  command can be used 
+
+

@@ -1,0 +1,28 @@
+git config 
+
+====> Allows us to Configure System
+
+
+Three Types of Configuration Available in GIT
+
+==> System 
+    Common Configuration for all User of System 
+
+    git config --system (refers System Config)
+
+
+==> Global 
+    Common Configuration for all Current User 
+
+    git config --global (refers Global Config)
+
+
+===> Local 
+
+     Common Configuration for Current Folder
+
+     git config --local (refers Local Config) 
+
+     
+
+
