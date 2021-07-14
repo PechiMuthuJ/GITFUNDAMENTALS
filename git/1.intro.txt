@@ -1,0 +1,7 @@
+GIT is Distributed Version  Control System
+
+It was Designed By Linux Torvald
+
+GIT using RSA HASHING for Storing Data 
+
+IT uses Tree Data Structure for Branches

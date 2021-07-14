@@ -1,0 +1,24 @@
+GIT 
+    Version Controlling Tool
+    allows us to create Reposotories
+    Maintain Versions of File 
+    Works via Offline Mode 
+
+
+GITHUB 
+    It is Website
+    Website Allows US to Host our OFFLINE GIT
+
+
+Terminalogies 
+
+Reposotories = Fancy name for Folder 
+
+GIT          = Algorithm With various File Handling Technique
+
+
+
+
+
+
+
