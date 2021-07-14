@@ -1,0 +1,11 @@
+git commit 
+
+command puts all files from stagging area to .git folder 
+
+git commit -m "Messages"
+
+-m shorthhand to write messages 
+
+git commit -am  // fast way to commit all files  
+
+

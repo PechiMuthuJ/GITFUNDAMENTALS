@@ -1,0 +1,13 @@
+Branching is Like Forking a Directory and Working seperatoly 
+
+It is Useful while 5 Developer developing 5 different features in Same Code Base 
+
+git checkout -b branchname create branch with that branch name 
+
+
+git checkout branchname (Switch to mentioned branch)
+
+git branch -d branchname (Deletes Branch)
+
+git branch lists all available branch
+

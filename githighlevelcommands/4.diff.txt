@@ -1,0 +1,8 @@
+git diff 
+
+usefull in finding changes made in two branches 
+
+git diff branch1 
+
+
+Useful To Find in Which File Conflict is There

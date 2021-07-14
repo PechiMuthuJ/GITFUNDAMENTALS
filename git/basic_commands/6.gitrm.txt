@@ -1,0 +1,7 @@
+git rm filename.txt 
+
+remove files from GIT 
+
+Advantage 
+
+    Automatically Update in Stagging Area 

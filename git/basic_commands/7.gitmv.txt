@@ -1,0 +1,5 @@
+git mv , helps renaming files 
+
+avantage 
+    automatically update in staging area 
+

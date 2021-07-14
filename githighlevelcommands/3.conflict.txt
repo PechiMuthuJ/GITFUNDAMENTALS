@@ -1,0 +1,3 @@
+Conflict Occurs if Editing is Done in Both Branches
+
+To Resolve Conflict We can use gittools

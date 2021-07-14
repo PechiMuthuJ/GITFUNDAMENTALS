@@ -1,0 +1,8 @@
+Merging Allows Us to Merge TO Branches 
+
+
+git merge branchname 
+
+Merge specified branch to current branch 
+
+This type is fastforward Merging

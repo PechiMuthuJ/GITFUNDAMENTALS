@@ -1,0 +1,16 @@
+slow 
+
+    Moves HEAD Pointer without Deleting File in Stagging Area and Directory 
+
+mixing 
+
+    Moves HEAD Pointer but stagging area is not retained (Default)
+
+
+Hard 
+
+    Moves HEAD Pointer but it deletes all files code will be deleted 
+
+
+git reset HashValueOfCommit --slow||--mixing||--hard
+  

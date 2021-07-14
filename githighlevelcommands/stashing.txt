@@ -1,0 +1,9 @@
+stashing :
+
+Commiting Everything Creates to Much Log 
+
+It Ocupies more memory 
+
+We can Create Different Stash for Branched 
+
+It helps us to switch between branches
