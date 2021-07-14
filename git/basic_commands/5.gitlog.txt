@@ -1,0 +1,8 @@
+Displays logs of Commit 
+
+git log 
+
+
+git log --oneword --graph --decorator --all 
+
+commits all files from log

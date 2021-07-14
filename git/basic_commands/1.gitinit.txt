@@ -1,0 +1,5 @@
+git init 
+
+Creates .git Folder 
+
+To Perform Version Controlling in a folder you need to use GIT init Command 

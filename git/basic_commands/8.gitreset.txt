@@ -1,0 +1,6 @@
+git reset HEAD filepath 
+
+HEAD is pointer which points last commited directory 
+
+
+git reset command is used to reset the commits

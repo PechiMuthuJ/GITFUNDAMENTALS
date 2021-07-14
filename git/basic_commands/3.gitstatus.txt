@@ -1,0 +1,8 @@
+git status
+
+shows files in Stagging Area 
+
+shows files in Stagging area 
+
+
+git status 

@@ -1,0 +1,23 @@
+In GIT There is Three area
+
+
+Local Repo 
+    The Area We Do Our Coding Stuffs 
+
+
+Stagging Area 
+    The Intermediate section between .git folder and local repo 
+
+
+GIT 
+    .git folder has exact snap shot of Local Repo 
+
+
+git add filepath  // adds corresponding file to stagging area 
+
+Adds all File in directory to stagging area 
+git add .
+
+git add - A 
+
+
