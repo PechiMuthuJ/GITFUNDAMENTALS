@@ -1,0 +1,17 @@
+Version Controlling
+    1) Version Controlling is Important when we work in groups
+    2) It Helps us when we need old version of Code
+    
+
+Centralised Version Controlling 
+    1) Version are Maintained in Central Server 
+    2) Single Point of Failure make whole System to Collapse 
+    3) Needs Internet Connection To Work with Centralised Version Controlling System 
+
+Distibuted Version 
+    1) Version Controlling is Done in Our Machine Via Offline Mode 
+    2) It uses Extra space in our Device 
+    3) There is no Single Failure Point 
+
+
+
